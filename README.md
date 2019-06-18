@@ -1,5 +1,5 @@
 <h1
- align="center">Stanford Cars with Fast.ai</h3>
+ align="center">Stanford Cars with Fast.ai: 93%</h3>
 
 ## 📝 Table of Contents
 
@@ -10,7 +10,8 @@
 
 - If you're **not** logged into kaggle via CLI, please download: https://www.kaggle.com/jutrera/stanford-car-dataset-by-classes-folder
 - Put the zipped folder inside the directory 'data-kaggle' provided and unzip it (including cars_data.zip)
-- Open 'Stanford-Cars-50-SM' and run each cell until the end
+- If you want to just run the test, open 'test-data' and run all cells
+- If you want to run the whole code, open 'Stanford_Cars_50_SM_2' and run each cell until the end
 - The results will be provided on the last cell `learn.validate(data_test.train_dl)`
 - If you're logged in into kaggle via CLI, run command `kaggle datasets download jutrera/stanford-car-dataset-by-classes-folder` to download the zipped file and unzip both the file and cars_data.zip
 - Thank you for the judges!
