@@ -1,5 +1,5 @@
 <h1
- align="center">Stanford Cars with Fast.ai: 93%</h3>
+ align="center">Stanford Cars with Fast.ai</h3>
 
 ## 📝 Table of Contents
 
